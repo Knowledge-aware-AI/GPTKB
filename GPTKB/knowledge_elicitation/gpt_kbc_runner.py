@@ -386,7 +386,6 @@ class GPTKBCRunner:
                 batch.output_file_id = openai_batch.output_file_id
 
                 if openai_batch.status in status_in_progress:
-                    print(openai_batch.status)
                     outstanding_batch_ids.append(openai_batch.id)
                 elif openai_batch.status == "completed":
                     batch.status = "parsing"  # override status
