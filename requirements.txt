@@ -5,3 +5,4 @@ sqlmodel
 fire
 sqlalchemy
 jinja2
+tqdm
