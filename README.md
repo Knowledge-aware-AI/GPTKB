@@ -1,3 +1,5 @@
+![GPTKB Banner](banner.png)
+
 # Welcome to GPTKB
 
 ## Overview
