@@ -1,11 +1,7 @@
 openai
-notebook
-rdflib
 requests
-spacy_fastlang
 loguru
 sqlmodel
 fire
 sqlalchemy
 jinja2
-sparqlwrapper
