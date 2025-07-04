@@ -1,0 +1,8 @@
+openai
+requests
+loguru
+sqlmodel
+fire
+sqlalchemy
+jinja2
+tqdm

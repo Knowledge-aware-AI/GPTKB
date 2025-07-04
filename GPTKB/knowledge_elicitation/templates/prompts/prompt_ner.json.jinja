@@ -1,0 +1,61 @@
+{
+  "custom_id": {{ custom_id|tojson }},
+  "method": "POST",
+  "url": "/v1/chat/completions",
+  "body": {
+    "model": "{{ model }}",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert on named entity recognition (NER). Your task is to classify if given phrases are named entities (e.g., persons, organizations, works of art), or not (e.g., literals, dates, URLs, verbose phrases). Each phrase is given to you in a line."
+      },
+      {
+        "role": "user",
+        "content": {{ phrases|tojson }}
+      }
+    ],
+    "max_tokens": 2048,
+    "top_p": 0,
+    "temperature": 0,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "response_format": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "phrase_list",
+        "schema": {
+          "type": "object",
+          "required": [
+            "phrases"
+          ],
+          "properties": {
+            "phrases": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": [
+                  "phrase",
+                  "is_ne"
+                ],
+                "properties": {
+                  "phrase": {
+                    "type": "string",
+                    "description": "The phrase being analyzed."
+                  },
+                  "is_ne": {
+                    "type": "boolean",
+                    "description": "Indicates whether the phrase is a Named Entity."
+                  }
+                },
+                "additionalProperties": false
+              },
+              "description": "A list of phrases with their respective NE status."
+            }
+          },
+          "additionalProperties": false
+        },
+        "strict": true
+      }
+    }
+  }
+}
