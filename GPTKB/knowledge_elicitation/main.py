@@ -12,8 +12,8 @@ def main(
         template_path_ner: str,
         seed_subject: str = "Vannevar Bush",
         max_batch_size: int = 5000,
-        max_queue_size: int = 5,
-        max_subjects_processed: int = 12000,
+        max_queue_size: int = 20,
+        max_subjects_processed: int = 100000,
 ):
     prompter_parser_module = PromptJSONSchema(
         template_path_elicitation=template_path_elicitation,
