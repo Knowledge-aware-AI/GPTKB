@@ -34,9 +34,9 @@ python main.py \
     --db_path output/gpt_kbc.db \
     --template_path_elicitation templates/prompts/prompt_elicitation.json.jinja \
     --template_path_ner templates/prompts/prompt_ner.json.jinja \
-    --max_batch_size 5000 \
+    --max_batch_size 500 \
     --max_queue_size 20 \
-    --max_subjects_processed 1000 \
+    --max_subjects_processed 10000 \
     --gpt_model_elicitation "gpt-4o-mini" \
     --gpt_model_ner "gpt-4o-mini"
 ```
