@@ -38,9 +38,10 @@ Don't forget to have your OpenAI API key in the environment variable
 
 ### Run
 
-See the [knowledge elicitation](GPTKB/knowledge_elicitation/README.md) folder
-for
-instructions on how to run the knowledge elicitation pipeline.
++ See the [knowledge elicitation](GPTKB/knowledge_elicitation/README.md) folder
+  for instructions on how to run the knowledge elicitation phase.
++ See the [knowledge consolidation](GPTKB/knowledge_consolidation/README.md)
+  folder for instructions on how to run the knowledge consolidation phase.
 
 ## Citation
 
