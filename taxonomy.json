@@ -1,0 +1,989 @@
+{
+    "Animals": {
+        "wildlife": {
+            "fish": {},
+            "birds": {
+                "bird": {
+                    "Monarch": {}
+                }
+            },
+            "animals": {
+                "Animalia": {
+                    "Dog": {},
+                    "Deer": {}
+                }
+            },
+            "mythical creatures": {}
+        }
+    },
+    "Plants": {
+        "gardens": {
+            "wine": {},
+            "spring": {},
+            "grass": {}
+        }
+    },
+    "Minerals": {
+        "taxonomy": {
+            "metals": {
+                "precious_metals": {
+                    "gold": {}
+                }
+            }
+        }
+    },
+    "Fungi": {},
+    "Microorganisms": {},
+    "Human-Made Objects": {
+        "taxonomy": {
+            "toys": {
+                "action figures": {}
+            },
+            "public transport": {
+                "railway": {},
+                "transportation services": {
+                    "bus services": {}
+                }
+            },
+            "technology": {
+                "Artificial Intelligence": {
+                    "machine learning": {}
+                },
+                "Web": {},
+                "software": {},
+                "Telecommunications": {},
+                "networking": {},
+                "mobile devices": {},
+                "Company": {
+                    "IBM": {},
+                    "Volkswagen": {},
+                    "BMW": {}
+                }
+            },
+            "transportation": {
+                "automotive industry": {
+                    "automobile": {
+                        "Volkswagen": {},
+                        "BMW": {}
+                    },
+                    "Formula One": {}
+                },
+                "vehicles": {
+                    "aircraft": {
+                        "military aircraft": {}
+                    }
+                },
+                "public transportation": {},
+                "road": {
+                    "Highway": {}
+                },
+                "Airport": {},
+                "bridge": {}
+            },
+            "Public": {
+                "Bank": {},
+                "Public service": {},
+                "museum": {
+                    "museums": {},
+                    "art museum": {}
+                },
+                "local government": {},
+                "theater": {
+                    "theater productions": {}
+                },
+                "restaurant": {},
+                "hospital": {},
+                "Hotel": {},
+                "School District": {
+                    "Public School": {}
+                },
+                "Police Department": {},
+                "caf\u00e9": {},
+                "art exhibition": {},
+                "radio station": {},
+                "statues": {},
+                "church": {},
+                "gift shop": {},
+                "television special": {},
+                "posters": {},
+                "temples": {},
+                "stadium": {},
+                "art gallery": {},
+                "swimming pool": {}
+            },
+            "Retail": {
+                "clothing": {},
+                "apparel": {},
+                "collectibles": {
+                    "collectors": {}
+                },
+                "merchandise": {},
+                "accessories": {},
+                "jewelry": {},
+                "brand": {},
+                "cosmetics": {},
+                "DVD": {},
+                "Blu-ray": {}
+            },
+            "architecture": {
+                "building": {},
+                "historical monuments": {},
+                "cultural landmark": {
+                    "towers": {}
+                }
+            },
+            "cultural heritage": {
+                "historical artifacts": {},
+                "cultural heritage site": {},
+                "artifacts": {},
+                "Roman Empire": {},
+                "sculpture": {
+                    "sculptures": {}
+                },
+                "House of Savoy": {}
+            },
+            "weapons": {},
+            "military": {
+                "naval warfare": {},
+                "military unit": {},
+                "Starfleet": {},
+                "Royal Navy": {},
+                "British Army": {},
+                "United States Army": {},
+                "United States Navy": {},
+                "United States Air Force": {},
+                "Royal Air Force": {}
+            },
+            "financial services": {},
+            "media": {
+                "video game": {
+                    "video games": {
+                        "role-playing game": {}
+                    }
+                },
+                "television": {},
+                "television series": {},
+                "television special": {},
+                "comics": {
+                    "manga": {},
+                    "comic books": {
+                        "comic book": {},
+                        "comic book series": {}
+                    }
+                },
+                "advertising": {},
+                "film": {
+                    "Film Director": {},
+                    "Screenwriter": {},
+                    "film production company": {}
+                },
+                "photographs": {}
+            },
+            "real estate": {},
+            "literature": {
+                "book": {},
+                "poetry": {},
+                "horror": {},
+                "children's literature": {},
+                "book series": {}
+            },
+            "non-profit organization": {},
+            "Library": {},
+            "photography": {},
+            "sports": {
+                "UEFA": {},
+                "football club": {},
+                "rugby": {},
+                "sports facilities": {},
+                "Formula One": {},
+                "Olympic Games": {},
+                "FIFA World Cup": {}
+            },
+            "Animation": {},
+            "developers": {},
+            "designers": {},
+            "band": {},
+            "artworks": {
+                "artwork": {},
+                "contemporary art": {},
+                "painting": {}
+            },
+            "urban development": {},
+            "art galleries": {},
+            "manual": {},
+            "musical instruments": {
+                "guitar": {},
+                "piano": {}
+            }
+        }
+    },
+    "Natural Phenomena": {
+        "astronomy": {},
+        "Earth": {
+            "river": {}
+        }
+    },
+    "Concepts": {
+        "literature": {
+            "non-fiction": {},
+            "Fiction": {
+                "fictional character": {}
+            },
+            "drama": {},
+            "fantasy": {}
+        },
+        "music": {
+            "musical group": {},
+            "musical": {}
+        },
+        "philosophy": {},
+        "technology": {},
+        "mythology": {
+            "Marvel Universe": {
+                "Marvel Comics": {}
+            }
+        },
+        "war": {
+            "taxonomy": {
+                "military": {
+                    "military strategy": {}
+                }
+            }
+        },
+        "scientific research": {
+            "research": {}
+        },
+        "psychology": {
+            "taxonomy": {
+                "relationships": {
+                    "friendship": {}
+                }
+            }
+        },
+        "Education": {
+            "educational institutions": {
+                "Educational Institution": {},
+                "educational programs": {},
+                "University": {}
+            }
+        },
+        "Mathematics": {},
+        "power": {},
+        "General": {},
+        "crime": {},
+        "international relations": {},
+        "logistics": {},
+        "security": {},
+        "sustainable development": {},
+        "entertainment": {
+            "film": {},
+            "sports": {
+                "football": {},
+                "sports team": {}
+            },
+            "comedy": {}
+        },
+        "government": {
+            "Soviet Union": {},
+            "monarchy": {
+                "noble title": {}
+            },
+            "government agency": {}
+        },
+        "region": {},
+        "Fashion": {},
+        "food": {},
+        "Physics": {},
+        "Medicine": {},
+        "Country": {},
+        "family": {},
+        "art": {
+            "Artist": {
+                "artists": {}
+            }
+        },
+        "historical events": {},
+        "Agriculture": {},
+        "religion": {
+            "Islam": {},
+            "Christianity": {},
+            "Buddhism": {},
+            "Catholic Church": {}
+        },
+        "award": {},
+        "identity": {
+            "cultural identity": {}
+        },
+        "science fiction": {},
+        "action": {},
+        "Native American culture": {},
+        "leadership": {},
+        "historical significance": {},
+        "Japanese culture": {}
+    },
+    "Activities": {
+        "tourism": {
+            "adventure": {
+                "Cycling": {}
+            }
+        },
+        "event": {
+            "sports": {
+                "martial arts": {
+                    "Wrestling": {}
+                },
+                "Racing": {},
+                "sports events": {
+                    "Cycling": {},
+                    "Tennis": {},
+                    "Basketball": {},
+                    "Swimming": {},
+                    "Volleyball": {}
+                }
+            },
+            "festivals": {
+                "concerts": {
+                    "music festival": {},
+                    "concert tour": {}
+                }
+            },
+            "dance": {
+                "ballet": {}
+            },
+            "theatrical performances": {}
+        },
+        "exploration": {},
+        "military operations": {},
+        "fitness classes": {}
+    },
+    "Locations": {
+        "taxonomy": {
+            "Geography": {
+                "Landforms": {},
+                "Water Bodies": {},
+                "Cities": {
+                    "City": {
+                        "France": {},
+                        "Germany": {
+                            "German": {}
+                        },
+                        "South Korea": {},
+                        "Egypt": {},
+                        "Town": {},
+                        "New York City": {},
+                        "London": {}
+                    },
+                    "Railway Station": {}
+                },
+                "Parks": {},
+                "Historical Sites": {
+                    "Historical Landmark": {},
+                    "UNESCO World Heritage Site": {},
+                    "Historical Sites": {}
+                },
+                "Tourist Attractions": {},
+                "Roads": {
+                    "U. S. Route 29": {}
+                }
+            }
+        }
+    },
+    "Human": {
+        "Person": {
+            "taxonomy": {
+                "historical figures": {
+                    "American": {
+                        "Politician": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "students": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Actor": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Actress": {
+                            "Female": {}
+                        },
+                        "children": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "musician": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Writer": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Singer": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "historical figure": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Footballer": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Athlete": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "musicians": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "clergy": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "philosopher": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Businessman": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "military officer": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Journalist": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "American football player": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "lawyer": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "Prince": {
+                            "Female": {},
+                            "Male": {}
+                        },
+                        "women": {}
+                    }
+                }
+            }
+        },
+        "Class 1": {},
+        "organization": {},
+        "emergency services": {},
+        "character": {},
+        "superhero": {},
+        "health services": {},
+        "Scientist": {},
+        "researchers": {}
+    },
+    "taxonomy": {
+        "Animals": {
+            "wildlife": {
+                "fish": {},
+                "birds": {
+                    "bird": {
+                        "Monarch": {}
+                    }
+                },
+                "animals": {
+                    "Animalia": {
+                        "Dog": {},
+                        "Deer": {}
+                    }
+                },
+                "mythical creatures": {}
+            }
+        },
+        "Plants": {
+            "gardens": {
+                "wine": {},
+                "spring": {},
+                "grass": {}
+            }
+        },
+        "Minerals": {
+            "taxonomy": {
+                "metals": {
+                    "precious_metals": {
+                        "gold": {}
+                    }
+                }
+            }
+        },
+        "Fungi": {},
+        "Microorganisms": {},
+        "Human-Made Objects": {
+            "taxonomy": {
+                "toys": {
+                    "action figures": {}
+                },
+                "public transport": {
+                    "railway": {},
+                    "transportation services": {
+                        "bus services": {}
+                    }
+                },
+                "technology": {
+                    "Artificial Intelligence": {
+                        "machine learning": {}
+                    },
+                    "Web": {},
+                    "software": {},
+                    "Telecommunications": {},
+                    "networking": {},
+                    "mobile devices": {},
+                    "Company": {
+                        "IBM": {},
+                        "Volkswagen": {},
+                        "BMW": {}
+                    }
+                },
+                "transportation": {
+                    "automotive industry": {
+                        "automobile": {
+                            "Volkswagen": {},
+                            "BMW": {}
+                        },
+                        "Formula One": {}
+                    },
+                    "vehicles": {
+                        "aircraft": {
+                            "military aircraft": {}
+                        }
+                    },
+                    "public transportation": {},
+                    "road": {
+                        "Highway": {}
+                    },
+                    "Airport": {},
+                    "bridge": {}
+                },
+                "Public": {
+                    "Bank": {},
+                    "Public service": {},
+                    "museum": {
+                        "museums": {},
+                        "art museum": {}
+                    },
+                    "local government": {},
+                    "theater": {
+                        "theater productions": {}
+                    },
+                    "restaurant": {},
+                    "hospital": {},
+                    "Hotel": {},
+                    "School District": {
+                        "Public School": {}
+                    },
+                    "Police Department": {},
+                    "caf\u00e9": {},
+                    "art exhibition": {},
+                    "radio station": {},
+                    "statues": {},
+                    "church": {},
+                    "gift shop": {},
+                    "television special": {},
+                    "posters": {},
+                    "temples": {},
+                    "stadium": {},
+                    "art gallery": {},
+                    "swimming pool": {}
+                },
+                "Retail": {
+                    "clothing": {},
+                    "apparel": {},
+                    "collectibles": {
+                        "collectors": {}
+                    },
+                    "merchandise": {},
+                    "accessories": {},
+                    "jewelry": {},
+                    "brand": {},
+                    "cosmetics": {},
+                    "DVD": {},
+                    "Blu-ray": {}
+                },
+                "architecture": {
+                    "building": {},
+                    "historical monuments": {},
+                    "cultural landmark": {
+                        "towers": {}
+                    }
+                },
+                "cultural heritage": {
+                    "historical artifacts": {},
+                    "cultural heritage site": {},
+                    "artifacts": {},
+                    "Roman Empire": {},
+                    "sculpture": {
+                        "sculptures": {}
+                    },
+                    "House of Savoy": {}
+                },
+                "weapons": {},
+                "military": {
+                    "naval warfare": {},
+                    "military unit": {},
+                    "Starfleet": {},
+                    "Royal Navy": {},
+                    "British Army": {},
+                    "United States Army": {},
+                    "United States Navy": {},
+                    "United States Air Force": {},
+                    "Royal Air Force": {}
+                },
+                "financial services": {},
+                "media": {
+                    "video game": {
+                        "video games": {
+                            "role-playing game": {}
+                        }
+                    },
+                    "television": {},
+                    "television series": {},
+                    "television special": {},
+                    "comics": {
+                        "manga": {},
+                        "comic books": {
+                            "comic book": {},
+                            "comic book series": {}
+                        }
+                    },
+                    "advertising": {},
+                    "film": {
+                        "Film Director": {},
+                        "Screenwriter": {},
+                        "film production company": {}
+                    },
+                    "photographs": {}
+                },
+                "real estate": {},
+                "literature": {
+                    "book": {},
+                    "poetry": {},
+                    "horror": {},
+                    "children's literature": {},
+                    "book series": {}
+                },
+                "non-profit organization": {},
+                "Library": {},
+                "photography": {},
+                "sports": {
+                    "UEFA": {},
+                    "football club": {},
+                    "rugby": {},
+                    "sports facilities": {},
+                    "Formula One": {},
+                    "Olympic Games": {},
+                    "FIFA World Cup": {}
+                },
+                "Animation": {},
+                "developers": {},
+                "designers": {},
+                "band": {},
+                "artworks": {
+                    "artwork": {},
+                    "contemporary art": {},
+                    "painting": {}
+                },
+                "urban development": {},
+                "art galleries": {},
+                "manual": {},
+                "musical instruments": {
+                    "guitar": {},
+                    "piano": {}
+                }
+            }
+        },
+        "Natural Phenomena": {
+            "astronomy": {},
+            "Earth": {
+                "river": {},
+                "mountain": {}
+            }
+        },
+        "Concepts": {
+            "literature": {
+                "non-fiction": {},
+                "Fiction": {
+                    "fictional character": {}
+                },
+                "drama": {},
+                "fantasy": {}
+            },
+            "music": {
+                "musical group": {},
+                "musical": {}
+            },
+            "philosophy": {},
+            "technology": {},
+            "mythology": {
+                "Marvel Universe": {
+                    "Marvel Comics": {}
+                }
+            },
+            "war": {
+                "taxonomy": {
+                    "military": {
+                        "military strategy": {}
+                    }
+                }
+            },
+            "scientific research": {
+                "research": {}
+            },
+            "psychology": {
+                "taxonomy": {
+                    "relationships": {
+                        "friendship": {}
+                    }
+                }
+            },
+            "Education": {
+                "educational institutions": {
+                    "Educational Institution": {},
+                    "educational programs": {},
+                    "University": {}
+                }
+            },
+            "Mathematics": {},
+            "power": {},
+            "General": {},
+            "crime": {},
+            "international relations": {},
+            "logistics": {},
+            "security": {},
+            "sustainable development": {},
+            "entertainment": {
+                "film": {},
+                "sports": {
+                    "football": {},
+                    "sports team": {}
+                },
+                "comedy": {}
+            },
+            "government": {
+                "Soviet Union": {},
+                "monarchy": {
+                    "noble title": {}
+                },
+                "government agency": {}
+            },
+            "region": {},
+            "Fashion": {},
+            "food": {},
+            "Physics": {},
+            "Medicine": {},
+            "Country": {},
+            "family": {},
+            "art": {
+                "Artist": {
+                    "artists": {}
+                }
+            },
+            "historical events": {},
+            "Agriculture": {},
+            "religion": {
+                "Islam": {},
+                "Christianity": {},
+                "Buddhism": {},
+                "Catholic Church": {}
+            },
+            "award": {
+                "BAFTA Awards": {},
+                "MTV Video Music Awards": {}
+            },
+            "identity": {
+                "cultural identity": {}
+            },
+            "science fiction": {},
+            "action": {},
+            "Native American culture": {},
+            "leadership": {},
+            "historical significance": {},
+            "Japanese culture": {},
+            "feminism": {}
+        },
+        "Activities": {
+            "tourism": {
+                "adventure": {
+                    "Cycling": {}
+                }
+            },
+            "event": {
+                "sports": {
+                    "martial arts": {
+                        "Wrestling": {}
+                    },
+                    "Racing": {},
+                    "sports events": {
+                        "Cycling": {},
+                        "Tennis": {},
+                        "Basketball": {},
+                        "Swimming": {},
+                        "Volleyball": {}
+                    }
+                },
+                "festivals": {
+                    "concerts": {
+                        "music festival": {},
+                        "concert tour": {}
+                    }
+                },
+                "dance": {
+                    "ballet": {}
+                },
+                "theatrical performances": {}
+            },
+            "exploration": {},
+            "military operations": {},
+            "fitness classes": {}
+        },
+        "Locations": {
+            "taxonomy": {
+                "Geography": {
+                    "Landforms": {},
+                    "Water Bodies": {},
+                    "Cities": {
+                        "City": {
+                            "France": {},
+                            "Germany": {
+                                "German": {}
+                            },
+                            "South Korea": {},
+                            "Egypt": {},
+                            "Town": {},
+                            "New York City": {},
+                            "London": {}
+                        },
+                        "Railway Station": {}
+                    },
+                    "Parks": {},
+                    "Historical Sites": {
+                        "Historical Landmark": {},
+                        "UNESCO World Heritage Site": {},
+                        "Historical Sites": {}
+                    },
+                    "Tourist Attractions": {},
+                    "Roads": {
+                        "U. S. Route 29": {}
+                    }
+                }
+            }
+        },
+        "Human": {
+            "Person": {
+                "taxonomy": {
+                    "historical figures": {
+                        "American": {
+                            "Politician": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "students": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Actor": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Actress": {
+                                "Female": {}
+                            },
+                            "children": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "musician": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Writer": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Singer": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "historical figure": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Footballer": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Athlete": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "musicians": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "clergy": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "philosopher": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Businessman": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "military officer": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "Journalist": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "American football player": {
+                                "Female": {},
+                                "Male": {}
+                            },
+                            "lawyer": {
+                                "Female": {},
+                                "Male": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Class 1": {},
+            "organization": {
+                "Board of Directors": {}
+            },
+            "emergency services": {},
+            "character": {
+                "Green Lantern": {}
+            },
+            "superhero": {},
+            "health services": {},
+            "Scientist": {},
+            "researchers": {},
+            "engineers": {},
+            "fans": {},
+            "Queen": {},
+            "music": {
+                "Spotify": {}
+            },
+            "Yes": {}
+        }
+    }
+}
